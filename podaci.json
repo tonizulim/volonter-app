@@ -1,0 +1,110 @@
+{
+  "volonteri": [
+    {
+      "id": "413f",
+      "vrste_aktivnosti": "Edukacija",
+      "ime": "Ivan",
+      "prezime": "zulim",
+      "grad": "Split"
+    },
+    {
+      "id": "35d6",
+      "ime": "marin",
+      "prezime": "matic",
+      "vrste_aktivnosti": "Ekologija",
+      "grad": "Split"
+    },
+    {
+      "id": "96a9",
+      "ime": "luka",
+      "prezime": "stipic",
+      "vrste_aktivnosti": "Edukacija",
+      "grad": "Zagreb"
+    }
+  ],
+  "Aktivnosti": [
+    {
+      "id": "1",
+      "vrste_aktivnosti": "Ekologija"
+    },
+    {
+      "id": "2",
+      "vrste_aktivnosti": "Edukacija"
+    },
+    {
+      "id": "3",
+      "vrste_aktivnosti": "Prijevoz"
+    }
+  ],
+  "Gradovi": [
+    {
+      "id": "1",
+      "grad": "Zagreb"
+    },
+    {
+      "id": "2",
+      "grad": "Split"
+    },
+    {
+      "id": "3",
+      "grad": "Vukovar"
+    }
+  ],
+  "Udruge": [
+    {
+      "id": "f29d",
+      "naziv": "Udruga za zastitu okolisa",
+      "grad": "Split",
+      "adresa": "sgd"
+    },
+    {
+      "id": "e3fc",
+      "naziv": "Udruga za zaštitu životinja",
+      "adresa": "ilica 4",
+      "grad": "Zagreb"
+    },
+    {
+      "id": "22c9",
+      "naziv": "udruga zeleni split",
+      "adresa": "poljicka 5",
+      "grad": "Split"
+    }
+  ],
+  "Udruge_neodobrene": [
+    {
+      "id": "e1a7",
+      "naziv": "zelenko",
+      "adresa": "ulica domovinskog rata",
+      "grad": "Split"
+    }
+  ],
+  "Dogadaji": [
+    {
+      "id": "73f0",
+      "naziv": "Ciscenje plaze",
+      "datum": "2020-06-20",
+      "lokacija": "plaza",
+      "udruga_naziv": "Udruga za zastitu okolisa",
+      "vrsta_akrivnosti": "Ekologija",
+      "opis": "Ciscenje plaze"
+    },
+    {
+      "id": "73ff",
+      "naziv": "Ciscenje ulice",
+      "datum": "2022-07-20",
+      "lokacija": "ulica",
+      "udruga_naziv": "Udruga za zastitu okolisa",
+      "vrsta_akrivnosti": "Ekologija",
+      "opis": "Ciscenje ulice, svi dobrodosli"
+    },
+    {
+      "id": "6475",
+      "naziv": "pošumljavanje",
+      "datum": "2022-02-04",
+      "lokacija": "trogir",
+      "udruga_naziv": "Udruga zeleni",
+      "vrsta_aktivnosti": "Ekologija",
+      "opis": "Sađenje borova u okolici trogira"
+    }
+  ]
+}

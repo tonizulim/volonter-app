@@ -1,0 +1,6 @@
+#header_div{
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(138, 160, 249, 0.628);
+}

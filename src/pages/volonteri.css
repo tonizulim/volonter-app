@@ -1,0 +1,6 @@
+#volonteri_div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: space-around;
+}

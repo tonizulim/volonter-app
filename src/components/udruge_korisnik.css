@@ -1,0 +1,23 @@
+#udruge_korisnik_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#Add_udruga_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+select{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
